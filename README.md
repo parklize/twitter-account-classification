@@ -1,4 +1,7 @@
 # twitter-account-classification
+Repository for the paper "A Simple Language Independent Approach for Distinguishing
+Individuals on Social Media" at ACM Hypertext 2021.
+
 
 # Abstract
 Nowadays, the large-scale human activity traces on social media
@@ -18,5 +21,7 @@ show that our proposed approach can provide competitive performance
 with state-of-the-art language-dependent methods, and
 outperforms alternative language-independent ones.
 
-# Reference
+
+# Citation
+
 
