@@ -3,7 +3,7 @@ Repository for the paper "A Simple Language Independent Approach for Distinguish
 Individuals on Social Media" at ACM Hypertext 2021.
 
 - ```proposed-clf.ipynb``` contains the source code for training and evaluating different approaches including the proposed approach.
-- The trained models for experiments can be downloaded from the shared folder (here)[https://drive.google.com/drive/folders/1SMC0rRxtVw4fxgU_Bvpf-vYi82wkSF_v?usp=sharing]
+- The trained models for experiments can be downloaded from the shared folder [here](https://drive.google.com/drive/folders/1SMC0rRxtVw4fxgU_Bvpf-vYi82wkSF_v?usp=sharing)
 - Due to the limit of uploadable file size, data is not included in the current repository.
 
 
