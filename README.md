@@ -2,6 +2,9 @@
 Repository for the paper "A Simple Language Independent Approach for Distinguishing
 Individuals on Social Media" at ACM Hypertext 2021.
 
+- ```proposed-clf.ipynb``` contains the source code for training and evaluating different approaches including the proposed approach.
+- Due to the limit of uploadable file size, data is not included in the current repository.
+
 
 # Abstract
 Nowadays, the large-scale human activity traces on social media
