@@ -29,5 +29,5 @@ outperforms alternative language-independent ones.
 
 
 # Citation
-Guangyuan Piao, "A Simple Language Independent Approach for Distinguishing Individuals onSocial Media", 32nd ACM Conference on Hypertext and Social Media, 2021. [[PDF](https://parklize.github.io/publications/HT2021.pdf)] [[BibTex](https://parklize.github.io/bib/HT2021.bib)]
+Guangyuan Piao, "A Simple Language Independent Approach for Distinguishing Individuals on Social Media", 32nd ACM Conference on Hypertext and Social Media, 2021. [[PDF](https://parklize.github.io/publications/HT2021.pdf)] [[BibTex](https://parklize.github.io/bib/HT2021.bib)]
 
